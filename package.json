@@ -2,7 +2,7 @@
   "name": "console-logger-node",
   "version": "1.0.0-beta1",
   "description": "helps logging colorized text in the console in node js apps",
-  "main": "app.js",
+  "main": "SimpleConsoleLogger.js",
   "scripts": {
     "test": "mocha"
   },
