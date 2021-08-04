@@ -1,0 +1,29 @@
+{
+  "name": "console-logger-node",
+  "version": "1.0.0-beta1",
+  "description": "helps logging colorized text in the console in node js apps",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ali-MRDN47/console-logger-node.git"
+  },
+  "keywords": [
+    "logger helper",
+    "console logger",
+    "colorized console",
+    "node logger",
+    "logger"
+  ],
+  "author": "Ali Ahmad <aliahmet19942015@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ali-MRDN47/console-logger-node/issues"
+  },
+  "homepage": "https://github.com/Ali-MRDN47/console-logger-node#readme",
+  "engines": {
+    "node": ">= v16.5.0"
+  }
+}
