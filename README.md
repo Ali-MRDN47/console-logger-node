@@ -8,11 +8,11 @@ PS C:\<your project root> npm install console-logger-node
 ```
 ## Usage
 
-Require the package in your project
+Require the package in your JS file
 ```
-const logger = require('SimpleConsoleLogger');
+const logger = require('console-logger-node');
 ```
-In your preferred file add this code lines to log your colorized text:
+Add this code lines to log your colorized text:
 ```
 logger.newLine()
     .logPart('your message', logger.Color.red)
